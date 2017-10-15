@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="PoolConnector_main" target="1.8" />
+      <module name="Poolconnector_main" target="1.8" />
+      <module name="Poolconnector_test" target="1.8" />
+      <module name="PoolConnector_test" target="1.8" />
+      <module name="Postgre_main" target="1.8" />
+      <module name="Postgre_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

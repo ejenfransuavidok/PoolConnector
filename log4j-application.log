@@ -1,0 +1,2212 @@
+2017-10-15 07:45:29 ERROR :58 - The url cannot be null
+2017-10-15 07:45:29 ERROR :21 - 
+2017-10-15 07:51:28 ERROR ConnectionPool:58 - The url cannot be null
+2017-10-15 07:51:28 ERROR ConnectionPool:21 - 
+2017-10-15 07:52:13 ERROR ConnectionPool:58 - The url cannot be null
+2017-10-15 07:52:13 ERROR ConnectionPool:21 - 
+2017-10-15 08:16:58 ERROR ConnectionPoolImp:58 - The url cannot be null
+2017-10-15 08:16:58 ERROR Main:20 - 
+2017-10-15 08:26:48 ERROR ConnectionPoolImp:60 - The url cannot be null
+2017-10-15 08:26:48 ERROR Main:20 - 
+2017-10-15 08:27:50 ERROR ConnectionPoolImp:99 - The url cannot be null
+2017-10-15 08:27:50 ERROR Main:20 - 
+2017-10-15 08:42:21 ERROR ConnectionPoolImp:99 - No suitable driver found for null://null:null/null
+2017-10-15 08:42:21 ERROR Main:21 - 
+2017-10-15 08:44:34 ERROR ConnectionPoolImp:99 - The server requested password-based authentication, but no password was provided.
+2017-10-15 08:44:34 ERROR Main:24 - 
+2017-10-15 08:46:31 ERROR ConnectionPoolImp:99 - FATAL: database "student" does not exist
+2017-10-15 08:46:31 ERROR Main:25 - 
+2017-10-15 08:47:18 DEBUG ConnectionPoolImp:96 - connection created successfully...
+2017-10-15 08:48:07 DEBUG ConnectionPoolImp:96 - connection created successfully...
+2017-10-15 08:48:45 DEBUG ConnectionPoolImp:96 - connection created successfully...
+2017-10-15 08:50:19 DEBUG ConnectionPoolImp:96 - connection created successfully...
+2017-10-15 11:14:07 DEBUG ConnectionPoolImp:80 - connection created successfully...
+2017-10-15 11:14:38 DEBUG ConnectionPoolImp:80 - connection created successfully...
+2017-10-15 11:33:53 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:36:19 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:37:10 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:37:23 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:37:40 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:37:45 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:37:50 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:37:55 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:38:00 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:38:05 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:38:10 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:38:15 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:38:20 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:38:25 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:38:30 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:38:35 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:39:12 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:39:18 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:39:22 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:39:28 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:39:33 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:39:38 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:39:43 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:39:48 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:39:53 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:39:58 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:40:03 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:40:08 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:40:13 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:40:18 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:40:58 INFO  ConnectionPoolImp:124 - here...
+2017-10-15 11:40:59 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:41:04 INFO  ConnectionPoolImp:124 - here...
+2017-10-15 11:41:04 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:41:09 INFO  ConnectionPoolImp:124 - here...
+2017-10-15 11:41:09 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:41:50 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:41:51 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:41:52 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:41:53 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:41:54 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:41:55 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:41:56 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:41:56 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:41:57 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:41:58 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:41:59 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:42:00 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:42:01 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:42:01 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:42:02 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:42:03 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:42:04 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:42:05 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:42:06 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:42:06 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:42:07 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:42:08 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:42:09 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:42:10 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:42:11 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:42:11 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:42:12 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:42:13 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:42:14 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:42:15 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:42:16 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:42:16 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:42:17 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:42:18 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:42:19 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:42:20 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:42:21 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:42:21 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:42:22 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:21 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:43:21 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:43:22 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:23 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:24 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:25 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:26 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:43:26 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:43:27 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:28 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:29 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:30 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:31 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:43:31 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:43:32 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:33 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:34 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:35 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:36 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:43:36 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:43:37 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:38 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:39 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:40 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:41 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:43:41 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:43:42 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:43 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:44 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:45 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:46 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:43:46 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:43:47 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:48 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:49 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:50 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:43:51 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:43:51 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:44:36 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:44:37 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:44:38 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:44:39 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:44:40 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:44:41 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:44:42 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:44:42 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:44:43 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:44:44 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:44:45 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:44:46 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:44:47 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:44:47 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:44:48 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:44:49 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:44:50 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:44:51 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:44:52 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:44:52 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:44:53 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:44:54 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:44:55 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:44:56 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:44:57 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:44:57 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:44:58 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:44:59 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:45:00 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:45:01 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:45:02 INFO  ConnectionPoolImp:125 - get new ... 1
+2017-10-15 11:45:02 DEBUG ConnectionPoolImp:79 - connection created successfully...
+2017-10-15 11:45:03 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:45:04 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:45:05 INFO  ConnectionPoolImp:121 - get existed ... 1
+2017-10-15 11:48:37 INFO  ConnectionPoolImp:136 - get new ... 1
+2017-10-15 11:48:37 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 11:48:38 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:48:39 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:48:40 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:48:41 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:48:42 INFO  ConnectionPoolImp:136 - get new ... 1
+2017-10-15 11:48:42 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 11:48:43 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:48:44 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:48:45 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:48:46 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:48:47 INFO  ConnectionPoolImp:136 - get new ... 1
+2017-10-15 11:48:47 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 11:48:48 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:48:49 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:48:50 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:48:51 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:48:52 INFO  ConnectionPoolImp:136 - get new ... 1
+2017-10-15 11:48:52 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 11:48:53 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:48:54 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:48:55 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:48:56 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:48:57 INFO  ConnectionPoolImp:136 - get new ... 1
+2017-10-15 11:48:57 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 11:48:58 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:48:59 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:49:00 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:49:01 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:49:02 INFO  ConnectionPoolImp:136 - get new ... 1
+2017-10-15 11:49:02 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 11:49:03 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:49:04 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:49:05 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:49:06 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:49:41 INFO  ConnectionPoolImp:136 - get new ... 1
+2017-10-15 11:49:42 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 11:49:43 INFO  ConnectionPoolImp:136 - get new ... 1
+2017-10-15 11:49:43 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 11:49:44 INFO  ConnectionPoolImp:133 - get existed ... 1
+2017-10-15 11:49:45 INFO  ConnectionPoolImp:133 - get existed ... 1
+2017-10-15 11:49:46 INFO  ConnectionPoolImp:133 - get existed ... 1
+2017-10-15 11:49:47 INFO  ConnectionPoolImp:133 - get existed ... 1
+2017-10-15 11:49:48 INFO  ConnectionPoolImp:136 - get new ... 1
+2017-10-15 11:49:48 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 11:49:49 INFO  ConnectionPoolImp:133 - get existed ... 1
+2017-10-15 11:49:50 INFO  ConnectionPoolImp:133 - get existed ... 1
+2017-10-15 11:49:51 INFO  ConnectionPoolImp:133 - get existed ... 1
+2017-10-15 11:52:21 INFO  ConnectionPoolImp:136 - get new ... 1
+2017-10-15 11:52:21 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 11:52:22 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:52:23 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:52:24 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:52:25 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:52:26 INFO  ConnectionPoolImp:136 - get new ... 1
+2017-10-15 11:52:26 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 11:52:27 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:52:28 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:52:29 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:52:30 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:52:31 INFO  ConnectionPoolImp:136 - get new ... 1
+2017-10-15 11:52:31 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 11:52:32 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:52:33 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:52:34 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:52:35 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:52:36 INFO  ConnectionPoolImp:136 - get new ... 1
+2017-10-15 11:52:36 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 11:52:37 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:52:38 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:52:39 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:52:40 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:58 - >>> 1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:08 INFO  ConnectionPoolImp:142 - get new ... 1
+2017-10-15 11:55:09 DEBUG ConnectionPoolImp:95 - connection created successfully...
+2017-10-15 11:55:10 INFO  ConnectionPoolImp:58 - >>> 1
+2017-10-15 11:55:10 INFO  ConnectionPoolImp:61 - check >>> 1
+2017-10-15 11:55:10 INFO  ConnectionPoolImp:63 - OK >>> 1
+2017-10-15 11:55:10 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 11:55:11 INFO  ConnectionPoolImp:58 - >>> 1
+2017-10-15 11:55:11 INFO  ConnectionPoolImp:61 - check >>> 1
+2017-10-15 11:55:11 INFO  ConnectionPoolImp:63 - OK >>> 1
+2017-10-15 11:55:11 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 11:55:12 INFO  ConnectionPoolImp:58 - >>> 1
+2017-10-15 11:55:12 INFO  ConnectionPoolImp:61 - check >>> 1
+2017-10-15 11:55:12 INFO  ConnectionPoolImp:63 - OK >>> 1
+2017-10-15 11:55:12 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 11:55:13 INFO  ConnectionPoolImp:58 - >>> 1
+2017-10-15 11:55:13 INFO  ConnectionPoolImp:61 - check >>> 1
+2017-10-15 11:55:13 INFO  ConnectionPoolImp:63 - OK >>> 1
+2017-10-15 11:55:13 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:58 - >>> 1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:14 INFO  ConnectionPoolImp:142 - get new ... 1
+2017-10-15 11:55:14 DEBUG ConnectionPoolImp:95 - connection created successfully...
+2017-10-15 11:55:15 INFO  ConnectionPoolImp:58 - >>> 1
+2017-10-15 11:55:15 INFO  ConnectionPoolImp:61 - check >>> 1
+2017-10-15 11:55:15 INFO  ConnectionPoolImp:63 - OK >>> 1
+2017-10-15 11:55:15 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 11:55:16 INFO  ConnectionPoolImp:58 - >>> 1
+2017-10-15 11:55:16 INFO  ConnectionPoolImp:61 - check >>> 1
+2017-10-15 11:55:16 INFO  ConnectionPoolImp:63 - OK >>> 1
+2017-10-15 11:55:16 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 11:55:17 INFO  ConnectionPoolImp:58 - >>> 1
+2017-10-15 11:55:17 INFO  ConnectionPoolImp:61 - check >>> 1
+2017-10-15 11:55:17 INFO  ConnectionPoolImp:63 - OK >>> 1
+2017-10-15 11:55:17 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 11:55:18 INFO  ConnectionPoolImp:58 - >>> 1
+2017-10-15 11:55:18 INFO  ConnectionPoolImp:61 - check >>> 1
+2017-10-15 11:55:18 INFO  ConnectionPoolImp:63 - OK >>> 1
+2017-10-15 11:55:18 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:58 - >>> 1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:61 - check >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:67 - NO >>> -1
+2017-10-15 11:55:19 INFO  ConnectionPoolImp:142 - get new ... 1
+2017-10-15 11:55:19 DEBUG ConnectionPoolImp:95 - connection created successfully...
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:58 -                                >>> 1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:47 INFO  ConnectionPoolImp:142 - get new ... 1
+2017-10-15 11:55:47 DEBUG ConnectionPoolImp:95 - connection created successfully...
+2017-10-15 11:55:48 INFO  ConnectionPoolImp:58 -                                >>> 1
+2017-10-15 11:55:48 INFO  ConnectionPoolImp:61 -                                check >>> 1
+2017-10-15 11:55:48 INFO  ConnectionPoolImp:63 -                                OK >>> 1
+2017-10-15 11:55:48 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 11:55:50 INFO  ConnectionPoolImp:58 -                                >>> 1
+2017-10-15 11:55:50 INFO  ConnectionPoolImp:61 -                                check >>> 1
+2017-10-15 11:55:50 INFO  ConnectionPoolImp:63 -                                OK >>> 1
+2017-10-15 11:55:50 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 11:55:51 INFO  ConnectionPoolImp:58 -                                >>> 1
+2017-10-15 11:55:51 INFO  ConnectionPoolImp:61 -                                check >>> 1
+2017-10-15 11:55:51 INFO  ConnectionPoolImp:63 -                                OK >>> 1
+2017-10-15 11:55:51 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 11:55:52 INFO  ConnectionPoolImp:58 -                                >>> 1
+2017-10-15 11:55:52 INFO  ConnectionPoolImp:61 -                                check >>> 1
+2017-10-15 11:55:52 INFO  ConnectionPoolImp:63 -                                OK >>> 1
+2017-10-15 11:55:52 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:58 -                                >>> 1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:61 -                                check >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:55:53 INFO  ConnectionPoolImp:142 - get new ... 1
+2017-10-15 11:55:53 DEBUG ConnectionPoolImp:95 - connection created successfully...
+2017-10-15 11:55:54 INFO  ConnectionPoolImp:58 -                                >>> 1
+2017-10-15 11:55:54 INFO  ConnectionPoolImp:61 -                                check >>> 1
+2017-10-15 11:55:54 INFO  ConnectionPoolImp:63 -                                OK >>> 1
+2017-10-15 11:55:54 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 11:55:55 INFO  ConnectionPoolImp:58 -                                >>> 1
+2017-10-15 11:55:55 INFO  ConnectionPoolImp:61 -                                check >>> 1
+2017-10-15 11:55:55 INFO  ConnectionPoolImp:63 -                                OK >>> 1
+2017-10-15 11:55:55 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:58 -                                >>> 1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:38 INFO  ConnectionPoolImp:142 - get new ... 1
+2017-10-15 11:56:38 DEBUG ConnectionPoolImp:95 - connection created successfully...
+2017-10-15 11:56:39 INFO  ConnectionPoolImp:58 -                                >>> 1
+2017-10-15 11:56:39 INFO  ConnectionPoolImp:61 -                                check(1) >>> 1
+2017-10-15 11:56:39 INFO  ConnectionPoolImp:63 -                                OK >>> 1
+2017-10-15 11:56:39 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 11:56:40 INFO  ConnectionPoolImp:58 -                                >>> 1
+2017-10-15 11:56:40 INFO  ConnectionPoolImp:61 -                                check(1) >>> 1
+2017-10-15 11:56:40 INFO  ConnectionPoolImp:63 -                                OK >>> 1
+2017-10-15 11:56:40 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 11:56:41 INFO  ConnectionPoolImp:58 -                                >>> 1
+2017-10-15 11:56:41 INFO  ConnectionPoolImp:61 -                                check(1) >>> 1
+2017-10-15 11:56:41 INFO  ConnectionPoolImp:63 -                                OK >>> 1
+2017-10-15 11:56:41 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 11:56:42 INFO  ConnectionPoolImp:58 -                                >>> 1
+2017-10-15 11:56:42 INFO  ConnectionPoolImp:61 -                                check(1) >>> 1
+2017-10-15 11:56:42 INFO  ConnectionPoolImp:63 -                                OK >>> 1
+2017-10-15 11:56:42 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:58 -                                >>> 1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:61 -                                check(-1) >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:67 -                                NO >>> -1
+2017-10-15 11:56:43 INFO  ConnectionPoolImp:142 - get new ... 1
+2017-10-15 11:56:43 DEBUG ConnectionPoolImp:95 - connection created successfully...
+2017-10-15 11:56:44 INFO  ConnectionPoolImp:58 -                                >>> 1
+2017-10-15 11:56:44 INFO  ConnectionPoolImp:61 -                                check(1) >>> 1
+2017-10-15 11:56:44 INFO  ConnectionPoolImp:63 -                                OK >>> 1
+2017-10-15 11:56:44 INFO  ConnectionPoolImp:138 - get existed ... 1
+2017-10-15 12:06:07 INFO  ConnectionPoolImp:136 - get new ... 1
+2017-10-15 12:06:08 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:06:09 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:06:10 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:06:11 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:06:12 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:06:18 INFO  ConnectionPoolImp:136 - get new ... 1
+2017-10-15 12:06:18 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:06:19 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:06:20 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:06:21 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:06:22 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:06:25 INFO  ConnectionPoolImp:136 - get new ... 1
+2017-10-15 12:06:25 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:06:25 INFO  ConnectionPoolImp:136 - get new ... 1
+2017-10-15 12:06:25 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:10:49 INFO  ConnectionPoolImp:136 - get new ... 1
+2017-10-15 12:10:49 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:10:50 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:10:51 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:10:52 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:10:53 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:10:54 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:10:55 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:10:56 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:10:57 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:10:58 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:10:59 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:11:00 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:11:01 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:11:02 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:11:03 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:11:04 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:11:05 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:11:06 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:11:07 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:11:08 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:11:09 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:11:10 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:11:11 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:11:12 INFO  ConnectionPoolImp:132 - get existed ... 1
+2017-10-15 12:19:53 INFO  ConnectionPoolImp:282 - cycle...
+2017-10-15 12:19:58 INFO  ConnectionPoolImp:282 - cycle...
+2017-10-15 12:20:03 INFO  ConnectionPoolImp:282 - cycle...
+2017-10-15 12:20:08 INFO  ConnectionPoolImp:282 - cycle...
+2017-10-15 12:20:13 INFO  ConnectionPoolImp:282 - cycle...
+2017-10-15 12:20:18 INFO  ConnectionPoolImp:282 - cycle...
+2017-10-15 12:22:02 INFO  ConnectionPoolImp:136 - get new ... 22
+2017-10-15 12:22:02 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:22:03 INFO  ConnectionPoolImp:136 - get new ... 23
+2017-10-15 12:22:03 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:22:04 INFO  ConnectionPoolImp:136 - get new ... 24
+2017-10-15 12:22:04 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:22:05 INFO  ConnectionPoolImp:136 - get new ... 25
+2017-10-15 12:22:05 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:22:06 INFO  ConnectionPoolImp:136 - get new ... 26
+2017-10-15 12:22:06 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:22:07 INFO  ConnectionPoolImp:136 - get new ... 27
+2017-10-15 12:22:07 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:22:08 INFO  ConnectionPoolImp:136 - get new ... 28
+2017-10-15 12:22:08 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:22:09 INFO  ConnectionPoolImp:136 - get new ... 29
+2017-10-15 12:22:09 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:22:10 INFO  ConnectionPoolImp:136 - get new ... 30
+2017-10-15 12:22:10 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:22:11 INFO  ConnectionPoolImp:136 - get new ... 31
+2017-10-15 12:22:11 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:23:48 INFO  ConnectionPoolImp:136 - get new ... 22
+2017-10-15 12:23:48 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:23:49 INFO  ConnectionPoolImp:136 - get new ... 23
+2017-10-15 12:23:49 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:23:50 INFO  ConnectionPoolImp:136 - get new ... 24
+2017-10-15 12:23:50 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:23:51 INFO  ConnectionPoolImp:136 - get new ... 25
+2017-10-15 12:23:51 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:23:52 INFO  ConnectionPoolImp:136 - get new ... 26
+2017-10-15 12:23:52 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:23:53 INFO  ConnectionPoolImp:136 - get new ... 27
+2017-10-15 12:23:53 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:23:54 INFO  ConnectionPoolImp:136 - get new ... 28
+2017-10-15 12:23:54 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:23:55 INFO  ConnectionPoolImp:136 - get new ... 29
+2017-10-15 12:23:55 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:23:56 INFO  ConnectionPoolImp:136 - get new ... 30
+2017-10-15 12:23:56 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:23:57 INFO  ConnectionPoolImp:136 - get new ... 31
+2017-10-15 12:23:57 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:23:58 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 32
+2017-10-15 12:23:59 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 33
+2017-10-15 12:24:00 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 34
+2017-10-15 12:24:01 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 35
+2017-10-15 12:24:02 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 36
+2017-10-15 12:24:03 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 37
+2017-10-15 12:24:39 INFO  ConnectionPoolImp:136 - get new ... 22
+2017-10-15 12:24:39 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:24:40 INFO  ConnectionPoolImp:136 - get new ... 23
+2017-10-15 12:24:40 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:24:41 INFO  ConnectionPoolImp:136 - get new ... 24
+2017-10-15 12:24:41 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:24:42 INFO  ConnectionPoolImp:136 - get new ... 25
+2017-10-15 12:24:42 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:24:43 INFO  ConnectionPoolImp:136 - get new ... 26
+2017-10-15 12:24:43 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:24:44 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:44 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:44 INFO  ConnectionPoolImp:136 - get new ... 27
+2017-10-15 12:24:44 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:24:45 INFO  ConnectionPoolImp:136 - get new ... 28
+2017-10-15 12:24:45 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:24:46 INFO  ConnectionPoolImp:136 - get new ... 29
+2017-10-15 12:24:46 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:24:47 INFO  ConnectionPoolImp:136 - get new ... 30
+2017-10-15 12:24:47 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:24:48 INFO  ConnectionPoolImp:136 - get new ... 31
+2017-10-15 12:24:48 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:24:49 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:49 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:49 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:49 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:49 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:49 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:49 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:49 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 32
+2017-10-15 12:24:50 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 33
+2017-10-15 12:24:51 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 34
+2017-10-15 12:24:52 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 35
+2017-10-15 12:24:53 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 36
+2017-10-15 12:24:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:54 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 37
+2017-10-15 12:24:55 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 38
+2017-10-15 12:24:56 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 39
+2017-10-15 12:24:57 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 40
+2017-10-15 12:24:58 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 41
+2017-10-15 12:24:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:24:59 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 42
+2017-10-15 12:25:00 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 43
+2017-10-15 12:25:01 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 44
+2017-10-15 12:25:02 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 45
+2017-10-15 12:25:50 INFO  ConnectionPoolImp:136 - get new ... 22
+2017-10-15 12:25:50 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:25:51 INFO  ConnectionPoolImp:136 - get new ... 23
+2017-10-15 12:25:51 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:25:52 INFO  ConnectionPoolImp:136 - get new ... 24
+2017-10-15 12:25:52 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:25:53 INFO  ConnectionPoolImp:136 - get new ... 25
+2017-10-15 12:25:53 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:25:54 INFO  ConnectionPoolImp:136 - get new ... 26
+2017-10-15 12:25:54 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:25:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:25:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:25:55 INFO  ConnectionPoolImp:136 - get new ... 27
+2017-10-15 12:25:55 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:25:56 INFO  ConnectionPoolImp:136 - get new ... 28
+2017-10-15 12:25:56 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:25:57 INFO  ConnectionPoolImp:136 - get new ... 29
+2017-10-15 12:25:57 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:25:58 INFO  ConnectionPoolImp:136 - get new ... 30
+2017-10-15 12:25:58 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:25:59 INFO  ConnectionPoolImp:136 - get new ... 31
+2017-10-15 12:25:59 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:25:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:25:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:25:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:25:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:25:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:25:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:25:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:00 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 32
+2017-10-15 12:26:01 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 33
+2017-10-15 12:26:02 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 34
+2017-10-15 12:26:03 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 35
+2017-10-15 12:26:04 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 36
+2017-10-15 12:26:04 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:04 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:04 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:04 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:04 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:04 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:04 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:04 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:04 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:04 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:05 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 37
+2017-10-15 12:26:06 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 38
+2017-10-15 12:26:07 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 39
+2017-10-15 12:26:08 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 40
+2017-10-15 12:26:09 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 41
+2017-10-15 12:26:09 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:09 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:09 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:09 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:09 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:09 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:09 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:09 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:09 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:09 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:26:10 DEBUG ConnectionPoolImp:149 - refuse connection... for pid = 42
+2017-10-15 12:27:19 INFO  ConnectionPoolImp:136 - get new ... 22
+2017-10-15 12:27:19 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:20 INFO  ConnectionPoolImp:136 - get new ... 23
+2017-10-15 12:27:20 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:21 INFO  ConnectionPoolImp:136 - get new ... 24
+2017-10-15 12:27:21 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:22 INFO  ConnectionPoolImp:136 - get new ... 25
+2017-10-15 12:27:22 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:23 INFO  ConnectionPoolImp:136 - get new ... 26
+2017-10-15 12:27:23 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:24 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:24 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:24 INFO  ConnectionPoolImp:136 - get new ... 27
+2017-10-15 12:27:24 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:25 INFO  ConnectionPoolImp:136 - get new ... 28
+2017-10-15 12:27:25 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:26 INFO  ConnectionPoolImp:136 - get new ... 29
+2017-10-15 12:27:26 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:27 INFO  ConnectionPoolImp:136 - get new ... 30
+2017-10-15 12:27:27 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:28 INFO  ConnectionPoolImp:136 - get new ... 31
+2017-10-15 12:27:28 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:29 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:29 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:29 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:29 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:29 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:29 INFO  ConnectionPoolImp:136 - get new ... 32
+2017-10-15 12:27:29 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:30 INFO  ConnectionPoolImp:136 - get new ... 33
+2017-10-15 12:27:30 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:31 INFO  ConnectionPoolImp:136 - get new ... 34
+2017-10-15 12:27:31 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:32 INFO  ConnectionPoolImp:136 - get new ... 35
+2017-10-15 12:27:32 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:33 INFO  ConnectionPoolImp:136 - get new ... 36
+2017-10-15 12:27:33 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:34 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:34 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:34 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:34 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:34 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:34 INFO  ConnectionPoolImp:136 - get new ... 37
+2017-10-15 12:27:34 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:35 INFO  ConnectionPoolImp:136 - get new ... 38
+2017-10-15 12:27:35 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:36 INFO  ConnectionPoolImp:136 - get new ... 39
+2017-10-15 12:27:36 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:37 INFO  ConnectionPoolImp:136 - get new ... 40
+2017-10-15 12:27:37 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:38 INFO  ConnectionPoolImp:136 - get new ... 41
+2017-10-15 12:27:38 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:39 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:39 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:39 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:39 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:39 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:39 INFO  ConnectionPoolImp:136 - get new ... 42
+2017-10-15 12:27:39 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:40 INFO  ConnectionPoolImp:136 - get new ... 43
+2017-10-15 12:27:40 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:41 INFO  ConnectionPoolImp:136 - get new ... 44
+2017-10-15 12:27:41 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:42 INFO  ConnectionPoolImp:136 - get new ... 45
+2017-10-15 12:27:42 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:43 INFO  ConnectionPoolImp:136 - get new ... 46
+2017-10-15 12:27:43 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:44 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:44 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:44 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:44 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:44 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:44 INFO  ConnectionPoolImp:136 - get new ... 47
+2017-10-15 12:27:44 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:45 INFO  ConnectionPoolImp:136 - get new ... 48
+2017-10-15 12:27:45 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:46 INFO  ConnectionPoolImp:136 - get new ... 49
+2017-10-15 12:27:46 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:47 INFO  ConnectionPoolImp:136 - get new ... 50
+2017-10-15 12:27:47 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:48 INFO  ConnectionPoolImp:136 - get new ... 51
+2017-10-15 12:27:48 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:49 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:49 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:49 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:49 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:49 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:49 INFO  ConnectionPoolImp:136 - get new ... 52
+2017-10-15 12:27:49 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:50 INFO  ConnectionPoolImp:136 - get new ... 53
+2017-10-15 12:27:50 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:51 INFO  ConnectionPoolImp:136 - get new ... 54
+2017-10-15 12:27:51 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:52 INFO  ConnectionPoolImp:136 - get new ... 55
+2017-10-15 12:27:52 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:53 INFO  ConnectionPoolImp:136 - get new ... 56
+2017-10-15 12:27:53 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:54 INFO  ConnectionPoolImp:136 - get new ... 57
+2017-10-15 12:27:54 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:55 INFO  ConnectionPoolImp:136 - get new ... 58
+2017-10-15 12:27:55 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:56 INFO  ConnectionPoolImp:136 - get new ... 59
+2017-10-15 12:27:56 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:57 INFO  ConnectionPoolImp:136 - get new ... 60
+2017-10-15 12:27:57 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:58 INFO  ConnectionPoolImp:136 - get new ... 61
+2017-10-15 12:27:58 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:27:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:27:59 INFO  ConnectionPoolImp:136 - get new ... 62
+2017-10-15 12:27:59 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:00 INFO  ConnectionPoolImp:136 - get new ... 63
+2017-10-15 12:28:00 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:01 INFO  ConnectionPoolImp:136 - get new ... 64
+2017-10-15 12:28:01 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:02 INFO  ConnectionPoolImp:136 - get new ... 65
+2017-10-15 12:28:02 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:03 INFO  ConnectionPoolImp:136 - get new ... 66
+2017-10-15 12:28:03 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:04 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:04 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:04 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:04 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:04 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:04 INFO  ConnectionPoolImp:136 - get new ... 67
+2017-10-15 12:28:04 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:05 INFO  ConnectionPoolImp:136 - get new ... 68
+2017-10-15 12:28:05 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:06 INFO  ConnectionPoolImp:136 - get new ... 69
+2017-10-15 12:28:06 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:07 INFO  ConnectionPoolImp:136 - get new ... 70
+2017-10-15 12:28:07 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:08 INFO  ConnectionPoolImp:136 - get new ... 71
+2017-10-15 12:28:08 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:09 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:09 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:09 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:09 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:09 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:09 INFO  ConnectionPoolImp:136 - get new ... 72
+2017-10-15 12:28:09 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:10 INFO  ConnectionPoolImp:136 - get new ... 73
+2017-10-15 12:28:10 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:11 INFO  ConnectionPoolImp:136 - get new ... 74
+2017-10-15 12:28:11 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:12 INFO  ConnectionPoolImp:136 - get new ... 75
+2017-10-15 12:28:12 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:13 INFO  ConnectionPoolImp:136 - get new ... 76
+2017-10-15 12:28:13 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:14 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:14 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:14 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:14 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:14 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:14 INFO  ConnectionPoolImp:136 - get new ... 77
+2017-10-15 12:28:14 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:15 INFO  ConnectionPoolImp:136 - get new ... 78
+2017-10-15 12:28:15 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:16 INFO  ConnectionPoolImp:136 - get new ... 79
+2017-10-15 12:28:16 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:17 INFO  ConnectionPoolImp:136 - get new ... 80
+2017-10-15 12:28:17 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:18 INFO  ConnectionPoolImp:136 - get new ... 81
+2017-10-15 12:28:18 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:19 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:19 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:19 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:19 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:19 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:19 INFO  ConnectionPoolImp:136 - get new ... 82
+2017-10-15 12:28:19 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:20 INFO  ConnectionPoolImp:136 - get new ... 83
+2017-10-15 12:28:20 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:21 INFO  ConnectionPoolImp:136 - get new ... 84
+2017-10-15 12:28:21 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:22 INFO  ConnectionPoolImp:136 - get new ... 85
+2017-10-15 12:28:22 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:23 INFO  ConnectionPoolImp:136 - get new ... 86
+2017-10-15 12:28:23 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:24 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:24 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:24 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:24 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:24 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:24 INFO  ConnectionPoolImp:136 - get new ... 87
+2017-10-15 12:28:24 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:25 INFO  ConnectionPoolImp:136 - get new ... 88
+2017-10-15 12:28:25 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:26 INFO  ConnectionPoolImp:136 - get new ... 89
+2017-10-15 12:28:26 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:27 INFO  ConnectionPoolImp:136 - get new ... 90
+2017-10-15 12:28:27 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:28 INFO  ConnectionPoolImp:136 - get new ... 91
+2017-10-15 12:28:28 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:29 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:29 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:29 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:29 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:29 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:29 INFO  ConnectionPoolImp:136 - get new ... 92
+2017-10-15 12:28:29 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:30 INFO  ConnectionPoolImp:136 - get new ... 93
+2017-10-15 12:28:30 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:31 INFO  ConnectionPoolImp:136 - get new ... 94
+2017-10-15 12:28:31 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:32 INFO  ConnectionPoolImp:136 - get new ... 95
+2017-10-15 12:28:32 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:33 INFO  ConnectionPoolImp:136 - get new ... 96
+2017-10-15 12:28:33 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:34 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:34 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:34 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:34 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:34 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:34 INFO  ConnectionPoolImp:136 - get new ... 97
+2017-10-15 12:28:34 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:35 INFO  ConnectionPoolImp:136 - get new ... 98
+2017-10-15 12:28:35 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:36 INFO  ConnectionPoolImp:136 - get new ... 99
+2017-10-15 12:28:36 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:37 INFO  ConnectionPoolImp:136 - get new ... 100
+2017-10-15 12:28:37 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:38 INFO  ConnectionPoolImp:136 - get new ... 101
+2017-10-15 12:28:38 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:39 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:39 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:39 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:39 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:39 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:39 INFO  ConnectionPoolImp:136 - get new ... 102
+2017-10-15 12:28:39 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:40 INFO  ConnectionPoolImp:136 - get new ... 103
+2017-10-15 12:28:40 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:41 INFO  ConnectionPoolImp:136 - get new ... 104
+2017-10-15 12:28:41 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:42 INFO  ConnectionPoolImp:136 - get new ... 105
+2017-10-15 12:28:42 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:43 INFO  ConnectionPoolImp:136 - get new ... 106
+2017-10-15 12:28:43 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:44 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:44 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:44 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:44 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:44 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:44 INFO  ConnectionPoolImp:136 - get new ... 107
+2017-10-15 12:28:44 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:45 INFO  ConnectionPoolImp:136 - get new ... 108
+2017-10-15 12:28:45 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:46 INFO  ConnectionPoolImp:136 - get new ... 109
+2017-10-15 12:28:46 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:47 INFO  ConnectionPoolImp:136 - get new ... 110
+2017-10-15 12:28:47 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:48 INFO  ConnectionPoolImp:136 - get new ... 111
+2017-10-15 12:28:48 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:49 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:49 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:49 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:49 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:49 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:49 INFO  ConnectionPoolImp:136 - get new ... 112
+2017-10-15 12:28:49 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:50 INFO  ConnectionPoolImp:136 - get new ... 113
+2017-10-15 12:28:50 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:51 INFO  ConnectionPoolImp:136 - get new ... 114
+2017-10-15 12:28:51 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:52 INFO  ConnectionPoolImp:136 - get new ... 115
+2017-10-15 12:28:52 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:53 INFO  ConnectionPoolImp:136 - get new ... 116
+2017-10-15 12:28:53 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:54 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:54 INFO  ConnectionPoolImp:136 - get new ... 117
+2017-10-15 12:28:54 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:55 INFO  ConnectionPoolImp:136 - get new ... 118
+2017-10-15 12:28:55 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:56 INFO  ConnectionPoolImp:136 - get new ... 119
+2017-10-15 12:28:56 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:57 INFO  ConnectionPoolImp:136 - get new ... 120
+2017-10-15 12:28:57 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:58 INFO  ConnectionPoolImp:136 - get new ... 121
+2017-10-15 12:28:58 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:28:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:28:59 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:29:04 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:29:04 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:29:04 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:06 INFO  ConnectionPoolImp:136 - get new ... 22
+2017-10-15 12:33:07 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:07 INFO  ConnectionPoolImp:136 - get new ... 23
+2017-10-15 12:33:07 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:08 INFO  ConnectionPoolImp:136 - get new ... 24
+2017-10-15 12:33:08 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:09 INFO  ConnectionPoolImp:136 - get new ... 25
+2017-10-15 12:33:09 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:10 INFO  ConnectionPoolImp:136 - get new ... 26
+2017-10-15 12:33:10 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:11 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:11 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:11 INFO  ConnectionPoolImp:136 - get new ... 27
+2017-10-15 12:33:11 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:12 INFO  ConnectionPoolImp:136 - get new ... 28
+2017-10-15 12:33:12 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:13 INFO  ConnectionPoolImp:136 - get new ... 29
+2017-10-15 12:33:13 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:14 INFO  ConnectionPoolImp:136 - get new ... 30
+2017-10-15 12:33:14 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:15 INFO  ConnectionPoolImp:136 - get new ... 31
+2017-10-15 12:33:15 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:16 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:16 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:16 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:16 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:16 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:16 INFO  ConnectionPoolImp:136 - get new ... 32
+2017-10-15 12:33:16 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:17 INFO  ConnectionPoolImp:136 - get new ... 33
+2017-10-15 12:33:17 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:18 INFO  ConnectionPoolImp:136 - get new ... 34
+2017-10-15 12:33:18 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:19 INFO  ConnectionPoolImp:136 - get new ... 35
+2017-10-15 12:33:19 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:20 INFO  ConnectionPoolImp:136 - get new ... 36
+2017-10-15 12:33:20 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:21 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:21 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:21 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:21 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:21 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:21 INFO  ConnectionPoolImp:136 - get new ... 37
+2017-10-15 12:33:21 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:22 INFO  ConnectionPoolImp:136 - get new ... 38
+2017-10-15 12:33:22 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:23 INFO  ConnectionPoolImp:136 - get new ... 39
+2017-10-15 12:33:23 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:24 INFO  ConnectionPoolImp:136 - get new ... 40
+2017-10-15 12:33:24 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:25 INFO  ConnectionPoolImp:136 - get new ... 41
+2017-10-15 12:33:25 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:26 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:26 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:26 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:26 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:26 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:26 INFO  ConnectionPoolImp:136 - get new ... 42
+2017-10-15 12:33:26 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:27 INFO  ConnectionPoolImp:136 - get new ... 43
+2017-10-15 12:33:27 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:28 INFO  ConnectionPoolImp:136 - get new ... 44
+2017-10-15 12:33:28 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:29 INFO  ConnectionPoolImp:136 - get new ... 45
+2017-10-15 12:33:29 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:30 INFO  ConnectionPoolImp:136 - get new ... 46
+2017-10-15 12:33:30 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:31 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:31 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:31 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:31 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:31 ERROR ConnectionPoolImp:255 - connection failed!!!
+2017-10-15 12:33:31 INFO  ConnectionPoolImp:136 - get new ... 47
+2017-10-15 12:33:31 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:32 INFO  ConnectionPoolImp:136 - get new ... 48
+2017-10-15 12:33:32 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:33:33 INFO  ConnectionPoolImp:136 - get new ... 49
+2017-10-15 12:33:33 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 12:36:12 INFO  ConnectionPoolImp:137 - get new ... 22
+2017-10-15 12:36:13 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:13 INFO  ConnectionPoolImp:137 - get new ... 23
+2017-10-15 12:36:13 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:14 INFO  ConnectionPoolImp:137 - get new ... 24
+2017-10-15 12:36:14 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:15 INFO  ConnectionPoolImp:137 - get new ... 25
+2017-10-15 12:36:15 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:16 INFO  ConnectionPoolImp:137 - get new ... 26
+2017-10-15 12:36:16 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:17 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:17 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:17 INFO  ConnectionPoolImp:137 - get new ... 27
+2017-10-15 12:36:17 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:18 INFO  ConnectionPoolImp:137 - get new ... 28
+2017-10-15 12:36:18 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:19 INFO  ConnectionPoolImp:137 - get new ... 29
+2017-10-15 12:36:19 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:20 INFO  ConnectionPoolImp:137 - get new ... 30
+2017-10-15 12:36:20 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:21 INFO  ConnectionPoolImp:137 - get new ... 31
+2017-10-15 12:36:21 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:22 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:22 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:22 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:22 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:22 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:22 INFO  ConnectionPoolImp:137 - get new ... 32
+2017-10-15 12:36:22 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:23 INFO  ConnectionPoolImp:137 - get new ... 33
+2017-10-15 12:36:23 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:24 INFO  ConnectionPoolImp:137 - get new ... 34
+2017-10-15 12:36:24 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:25 INFO  ConnectionPoolImp:137 - get new ... 35
+2017-10-15 12:36:25 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:26 INFO  ConnectionPoolImp:137 - get new ... 36
+2017-10-15 12:36:26 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:27 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:27 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:27 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:27 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:27 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:27 INFO  ConnectionPoolImp:137 - get new ... 37
+2017-10-15 12:36:27 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:28 INFO  ConnectionPoolImp:137 - get new ... 38
+2017-10-15 12:36:28 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:29 INFO  ConnectionPoolImp:137 - get new ... 39
+2017-10-15 12:36:29 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:30 INFO  ConnectionPoolImp:137 - get new ... 40
+2017-10-15 12:36:30 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:31 INFO  ConnectionPoolImp:137 - get new ... 41
+2017-10-15 12:36:31 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:32 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:32 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:32 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:32 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:32 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:32 INFO  ConnectionPoolImp:137 - get new ... 42
+2017-10-15 12:36:32 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:33 INFO  ConnectionPoolImp:137 - get new ... 43
+2017-10-15 12:36:33 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:34 INFO  ConnectionPoolImp:137 - get new ... 44
+2017-10-15 12:36:34 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:35 INFO  ConnectionPoolImp:137 - get new ... 45
+2017-10-15 12:36:35 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:36 INFO  ConnectionPoolImp:137 - get new ... 46
+2017-10-15 12:36:36 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:37 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:37 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:37 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:37 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:37 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:37 INFO  ConnectionPoolImp:137 - get new ... 47
+2017-10-15 12:36:37 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:38 INFO  ConnectionPoolImp:137 - get new ... 48
+2017-10-15 12:36:38 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:39 INFO  ConnectionPoolImp:137 - get new ... 49
+2017-10-15 12:36:39 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:40 INFO  ConnectionPoolImp:137 - get new ... 50
+2017-10-15 12:36:40 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:41 INFO  ConnectionPoolImp:137 - get new ... 51
+2017-10-15 12:36:41 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:42 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:42 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:42 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:42 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:42 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:42 INFO  ConnectionPoolImp:137 - get new ... 52
+2017-10-15 12:36:42 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:43 INFO  ConnectionPoolImp:137 - get new ... 53
+2017-10-15 12:36:43 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:44 INFO  ConnectionPoolImp:137 - get new ... 54
+2017-10-15 12:36:44 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:45 INFO  ConnectionPoolImp:137 - get new ... 55
+2017-10-15 12:36:45 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:46 INFO  ConnectionPoolImp:137 - get new ... 56
+2017-10-15 12:36:46 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:47 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:47 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:47 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:47 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:47 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:47 INFO  ConnectionPoolImp:137 - get new ... 57
+2017-10-15 12:36:47 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:48 INFO  ConnectionPoolImp:137 - get new ... 58
+2017-10-15 12:36:48 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:49 INFO  ConnectionPoolImp:137 - get new ... 59
+2017-10-15 12:36:49 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:50 INFO  ConnectionPoolImp:137 - get new ... 60
+2017-10-15 12:36:50 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:51 INFO  ConnectionPoolImp:137 - get new ... 61
+2017-10-15 12:36:51 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:52 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:52 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:52 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:52 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:52 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:52 INFO  ConnectionPoolImp:137 - get new ... 62
+2017-10-15 12:36:52 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:53 INFO  ConnectionPoolImp:137 - get new ... 63
+2017-10-15 12:36:53 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:54 INFO  ConnectionPoolImp:137 - get new ... 64
+2017-10-15 12:36:54 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:55 INFO  ConnectionPoolImp:137 - get new ... 65
+2017-10-15 12:36:55 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:56 INFO  ConnectionPoolImp:137 - get new ... 66
+2017-10-15 12:36:56 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:57 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:57 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:57 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:57 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:57 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:36:57 INFO  ConnectionPoolImp:137 - get new ... 67
+2017-10-15 12:36:57 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:58 INFO  ConnectionPoolImp:137 - get new ... 68
+2017-10-15 12:36:58 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:36:59 INFO  ConnectionPoolImp:137 - get new ... 69
+2017-10-15 12:36:59 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:00 INFO  ConnectionPoolImp:137 - get new ... 70
+2017-10-15 12:37:00 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:01 INFO  ConnectionPoolImp:137 - get new ... 71
+2017-10-15 12:37:01 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:02 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:02 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:02 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:02 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:02 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:02 INFO  ConnectionPoolImp:137 - get new ... 72
+2017-10-15 12:37:02 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:03 INFO  ConnectionPoolImp:137 - get new ... 73
+2017-10-15 12:37:03 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:04 INFO  ConnectionPoolImp:137 - get new ... 74
+2017-10-15 12:37:04 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:05 INFO  ConnectionPoolImp:137 - get new ... 75
+2017-10-15 12:37:05 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:06 INFO  ConnectionPoolImp:137 - get new ... 76
+2017-10-15 12:37:06 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:07 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:07 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:07 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:07 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:07 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:07 INFO  ConnectionPoolImp:137 - get new ... 77
+2017-10-15 12:37:07 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:08 INFO  ConnectionPoolImp:137 - get new ... 78
+2017-10-15 12:37:08 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:09 INFO  ConnectionPoolImp:137 - get new ... 79
+2017-10-15 12:37:09 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:10 INFO  ConnectionPoolImp:137 - get new ... 80
+2017-10-15 12:37:10 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:11 INFO  ConnectionPoolImp:137 - get new ... 81
+2017-10-15 12:37:11 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:12 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:12 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:12 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:12 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:12 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:12 INFO  ConnectionPoolImp:137 - get new ... 82
+2017-10-15 12:37:12 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:13 INFO  ConnectionPoolImp:137 - get new ... 83
+2017-10-15 12:37:13 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:14 INFO  ConnectionPoolImp:137 - get new ... 84
+2017-10-15 12:37:14 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:15 INFO  ConnectionPoolImp:137 - get new ... 85
+2017-10-15 12:37:15 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:16 INFO  ConnectionPoolImp:137 - get new ... 86
+2017-10-15 12:37:16 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:17 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:17 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:17 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:17 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:17 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:17 INFO  ConnectionPoolImp:137 - get new ... 87
+2017-10-15 12:37:17 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:18 INFO  ConnectionPoolImp:137 - get new ... 88
+2017-10-15 12:37:18 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:19 INFO  ConnectionPoolImp:137 - get new ... 89
+2017-10-15 12:37:19 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:20 INFO  ConnectionPoolImp:137 - get new ... 90
+2017-10-15 12:37:20 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:21 INFO  ConnectionPoolImp:137 - get new ... 91
+2017-10-15 12:37:21 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:22 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:22 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:22 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:22 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:22 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:22 INFO  ConnectionPoolImp:137 - get new ... 92
+2017-10-15 12:37:22 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:23 INFO  ConnectionPoolImp:137 - get new ... 93
+2017-10-15 12:37:23 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:24 INFO  ConnectionPoolImp:137 - get new ... 94
+2017-10-15 12:37:24 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:25 INFO  ConnectionPoolImp:137 - get new ... 95
+2017-10-15 12:37:25 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:26 INFO  ConnectionPoolImp:137 - get new ... 96
+2017-10-15 12:37:26 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:27 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:27 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:27 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:27 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:27 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:27 INFO  ConnectionPoolImp:137 - get new ... 97
+2017-10-15 12:37:27 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:28 INFO  ConnectionPoolImp:137 - get new ... 98
+2017-10-15 12:37:28 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:29 INFO  ConnectionPoolImp:137 - get new ... 99
+2017-10-15 12:37:29 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:30 INFO  ConnectionPoolImp:137 - get new ... 100
+2017-10-15 12:37:30 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:31 INFO  ConnectionPoolImp:137 - get new ... 101
+2017-10-15 12:37:31 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:32 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:32 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:32 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:32 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:32 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:32 INFO  ConnectionPoolImp:137 - get new ... 102
+2017-10-15 12:37:32 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:33 INFO  ConnectionPoolImp:137 - get new ... 103
+2017-10-15 12:37:33 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:34 INFO  ConnectionPoolImp:137 - get new ... 104
+2017-10-15 12:37:34 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:35 INFO  ConnectionPoolImp:137 - get new ... 105
+2017-10-15 12:37:35 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:36 INFO  ConnectionPoolImp:137 - get new ... 106
+2017-10-15 12:37:36 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:37 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:37 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:37 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:37 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:37 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:37 INFO  ConnectionPoolImp:137 - get new ... 107
+2017-10-15 12:37:37 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:38 INFO  ConnectionPoolImp:137 - get new ... 108
+2017-10-15 12:37:38 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:39 INFO  ConnectionPoolImp:137 - get new ... 109
+2017-10-15 12:37:39 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:40 INFO  ConnectionPoolImp:137 - get new ... 110
+2017-10-15 12:37:40 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:41 INFO  ConnectionPoolImp:137 - get new ... 111
+2017-10-15 12:37:41 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:42 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:42 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:42 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:42 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:42 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:42 INFO  ConnectionPoolImp:137 - get new ... 112
+2017-10-15 12:37:42 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:43 INFO  ConnectionPoolImp:137 - get new ... 113
+2017-10-15 12:37:43 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:44 INFO  ConnectionPoolImp:137 - get new ... 114
+2017-10-15 12:37:44 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:45 INFO  ConnectionPoolImp:137 - get new ... 115
+2017-10-15 12:37:45 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:46 INFO  ConnectionPoolImp:137 - get new ... 116
+2017-10-15 12:37:46 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:47 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:47 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:47 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:47 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:47 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:47 INFO  ConnectionPoolImp:137 - get new ... 117
+2017-10-15 12:37:47 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:48 INFO  ConnectionPoolImp:137 - get new ... 118
+2017-10-15 12:37:48 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:49 INFO  ConnectionPoolImp:137 - get new ... 119
+2017-10-15 12:37:49 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:50 INFO  ConnectionPoolImp:137 - get new ... 120
+2017-10-15 12:37:50 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:51 INFO  ConnectionPoolImp:137 - get new ... 121
+2017-10-15 12:37:51 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 12:37:52 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:52 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:52 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:52 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:52 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:57 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:57 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 12:37:57 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:29:58 INFO  ConnectionPoolImp:137 - get new ... 22
+2017-10-15 13:29:59 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:29:59 INFO  ConnectionPoolImp:137 - get new ... 23
+2017-10-15 13:29:59 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:00 INFO  ConnectionPoolImp:137 - get new ... 24
+2017-10-15 13:30:00 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:01 INFO  ConnectionPoolImp:137 - get new ... 25
+2017-10-15 13:30:01 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:02 INFO  ConnectionPoolImp:137 - get new ... 26
+2017-10-15 13:30:02 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:03 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:03 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:03 INFO  ConnectionPoolImp:137 - get new ... 27
+2017-10-15 13:30:03 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:04 INFO  ConnectionPoolImp:137 - get new ... 28
+2017-10-15 13:30:04 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:05 INFO  ConnectionPoolImp:137 - get new ... 29
+2017-10-15 13:30:05 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:06 INFO  ConnectionPoolImp:137 - get new ... 30
+2017-10-15 13:30:06 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:07 INFO  ConnectionPoolImp:137 - get new ... 31
+2017-10-15 13:30:07 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:08 INFO  ConnectionPoolImp:137 - get new ... 32
+2017-10-15 13:30:08 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:09 INFO  ConnectionPoolImp:137 - get new ... 33
+2017-10-15 13:30:09 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:10 INFO  ConnectionPoolImp:137 - get new ... 34
+2017-10-15 13:30:10 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:11 INFO  ConnectionPoolImp:137 - get new ... 35
+2017-10-15 13:30:11 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:12 INFO  ConnectionPoolImp:137 - get new ... 36
+2017-10-15 13:30:12 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:13 INFO  ConnectionPoolImp:137 - get new ... 37
+2017-10-15 13:30:13 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:14 INFO  ConnectionPoolImp:137 - get new ... 38
+2017-10-15 13:30:14 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:15 INFO  ConnectionPoolImp:137 - get new ... 39
+2017-10-15 13:30:15 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:16 INFO  ConnectionPoolImp:137 - get new ... 40
+2017-10-15 13:30:16 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:17 INFO  ConnectionPoolImp:137 - get new ... 41
+2017-10-15 13:30:17 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:18 INFO  ConnectionPoolImp:137 - get new ... 42
+2017-10-15 13:30:18 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:19 INFO  ConnectionPoolImp:137 - get new ... 43
+2017-10-15 13:30:19 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:20 INFO  ConnectionPoolImp:137 - get new ... 44
+2017-10-15 13:30:20 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:21 INFO  ConnectionPoolImp:137 - get new ... 45
+2017-10-15 13:30:21 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:22 INFO  ConnectionPoolImp:137 - get new ... 46
+2017-10-15 13:30:22 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:23 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:23 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:23 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:23 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:23 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:23 INFO  ConnectionPoolImp:137 - get new ... 47
+2017-10-15 13:30:23 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:24 INFO  ConnectionPoolImp:137 - get new ... 48
+2017-10-15 13:30:24 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:25 INFO  ConnectionPoolImp:137 - get new ... 49
+2017-10-15 13:30:25 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:26 INFO  ConnectionPoolImp:137 - get new ... 50
+2017-10-15 13:30:26 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:27 INFO  ConnectionPoolImp:137 - get new ... 51
+2017-10-15 13:30:27 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:28 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:28 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:28 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:28 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:28 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:28 INFO  ConnectionPoolImp:137 - get new ... 52
+2017-10-15 13:30:28 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:29 INFO  ConnectionPoolImp:137 - get new ... 53
+2017-10-15 13:30:29 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:30 INFO  ConnectionPoolImp:137 - get new ... 54
+2017-10-15 13:30:30 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:31 INFO  ConnectionPoolImp:137 - get new ... 55
+2017-10-15 13:30:31 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:32 INFO  ConnectionPoolImp:137 - get new ... 56
+2017-10-15 13:30:32 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:33 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:33 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:33 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:33 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:33 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:33 INFO  ConnectionPoolImp:137 - get new ... 57
+2017-10-15 13:30:33 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:34 INFO  ConnectionPoolImp:137 - get new ... 58
+2017-10-15 13:30:34 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:35 INFO  ConnectionPoolImp:137 - get new ... 59
+2017-10-15 13:30:35 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:36 INFO  ConnectionPoolImp:137 - get new ... 60
+2017-10-15 13:30:36 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:37 INFO  ConnectionPoolImp:137 - get new ... 61
+2017-10-15 13:30:37 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:38 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:38 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:38 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:38 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:38 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:38 INFO  ConnectionPoolImp:137 - get new ... 62
+2017-10-15 13:30:38 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:39 INFO  ConnectionPoolImp:137 - get new ... 63
+2017-10-15 13:30:39 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:40 INFO  ConnectionPoolImp:137 - get new ... 64
+2017-10-15 13:30:40 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:41 INFO  ConnectionPoolImp:137 - get new ... 65
+2017-10-15 13:30:41 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:42 INFO  ConnectionPoolImp:137 - get new ... 66
+2017-10-15 13:30:42 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:43 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:43 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:43 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:43 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:43 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:43 INFO  ConnectionPoolImp:137 - get new ... 67
+2017-10-15 13:30:43 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:44 INFO  ConnectionPoolImp:137 - get new ... 68
+2017-10-15 13:30:44 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:45 INFO  ConnectionPoolImp:137 - get new ... 69
+2017-10-15 13:30:45 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:46 INFO  ConnectionPoolImp:137 - get new ... 70
+2017-10-15 13:30:46 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:47 INFO  ConnectionPoolImp:137 - get new ... 71
+2017-10-15 13:30:47 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:48 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:48 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:48 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:48 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:48 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:48 INFO  ConnectionPoolImp:137 - get new ... 72
+2017-10-15 13:30:48 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:49 INFO  ConnectionPoolImp:137 - get new ... 73
+2017-10-15 13:30:49 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:50 INFO  ConnectionPoolImp:137 - get new ... 74
+2017-10-15 13:30:50 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:51 INFO  ConnectionPoolImp:137 - get new ... 75
+2017-10-15 13:30:51 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:52 INFO  ConnectionPoolImp:137 - get new ... 76
+2017-10-15 13:30:52 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:53 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:53 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:53 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:53 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:53 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:53 INFO  ConnectionPoolImp:137 - get new ... 77
+2017-10-15 13:30:53 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:54 INFO  ConnectionPoolImp:137 - get new ... 78
+2017-10-15 13:30:54 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:55 INFO  ConnectionPoolImp:137 - get new ... 79
+2017-10-15 13:30:55 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:56 INFO  ConnectionPoolImp:137 - get new ... 80
+2017-10-15 13:30:56 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:57 INFO  ConnectionPoolImp:137 - get new ... 81
+2017-10-15 13:30:57 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:58 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:58 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:58 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:58 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:58 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:30:58 INFO  ConnectionPoolImp:137 - get new ... 82
+2017-10-15 13:30:58 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:30:59 INFO  ConnectionPoolImp:137 - get new ... 83
+2017-10-15 13:30:59 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:00 INFO  ConnectionPoolImp:137 - get new ... 84
+2017-10-15 13:31:00 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:01 INFO  ConnectionPoolImp:137 - get new ... 85
+2017-10-15 13:31:01 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:02 INFO  ConnectionPoolImp:137 - get new ... 86
+2017-10-15 13:31:02 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:03 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:03 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:03 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:03 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:03 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:03 INFO  ConnectionPoolImp:137 - get new ... 87
+2017-10-15 13:31:03 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:04 INFO  ConnectionPoolImp:137 - get new ... 88
+2017-10-15 13:31:04 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:05 INFO  ConnectionPoolImp:137 - get new ... 89
+2017-10-15 13:31:05 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:06 INFO  ConnectionPoolImp:137 - get new ... 90
+2017-10-15 13:31:06 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:07 INFO  ConnectionPoolImp:137 - get new ... 91
+2017-10-15 13:31:07 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:08 INFO  ConnectionPoolImp:137 - get new ... 92
+2017-10-15 13:31:08 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:09 INFO  ConnectionPoolImp:137 - get new ... 93
+2017-10-15 13:31:09 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:10 INFO  ConnectionPoolImp:137 - get new ... 94
+2017-10-15 13:31:10 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:11 INFO  ConnectionPoolImp:137 - get new ... 95
+2017-10-15 13:31:11 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:12 INFO  ConnectionPoolImp:137 - get new ... 96
+2017-10-15 13:31:12 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:13 INFO  ConnectionPoolImp:137 - get new ... 97
+2017-10-15 13:31:13 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:14 INFO  ConnectionPoolImp:137 - get new ... 98
+2017-10-15 13:31:14 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:15 INFO  ConnectionPoolImp:137 - get new ... 99
+2017-10-15 13:31:15 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:16 INFO  ConnectionPoolImp:137 - get new ... 100
+2017-10-15 13:31:16 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:17 INFO  ConnectionPoolImp:137 - get new ... 101
+2017-10-15 13:31:17 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:18 INFO  ConnectionPoolImp:137 - get new ... 102
+2017-10-15 13:31:18 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:19 INFO  ConnectionPoolImp:137 - get new ... 103
+2017-10-15 13:31:19 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:20 INFO  ConnectionPoolImp:137 - get new ... 104
+2017-10-15 13:31:20 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:21 INFO  ConnectionPoolImp:137 - get new ... 105
+2017-10-15 13:31:21 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:22 INFO  ConnectionPoolImp:137 - get new ... 106
+2017-10-15 13:31:22 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:23 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:23 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:23 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:23 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:23 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:23 INFO  ConnectionPoolImp:137 - get new ... 107
+2017-10-15 13:31:23 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:24 INFO  ConnectionPoolImp:137 - get new ... 108
+2017-10-15 13:31:24 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:25 INFO  ConnectionPoolImp:137 - get new ... 109
+2017-10-15 13:31:25 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:26 INFO  ConnectionPoolImp:137 - get new ... 110
+2017-10-15 13:31:26 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:27 INFO  ConnectionPoolImp:137 - get new ... 111
+2017-10-15 13:31:27 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:28 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:28 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:28 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:28 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:28 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:28 INFO  ConnectionPoolImp:137 - get new ... 112
+2017-10-15 13:31:28 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:29 INFO  ConnectionPoolImp:137 - get new ... 113
+2017-10-15 13:31:29 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:30 INFO  ConnectionPoolImp:137 - get new ... 114
+2017-10-15 13:31:30 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:31 INFO  ConnectionPoolImp:137 - get new ... 115
+2017-10-15 13:31:31 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:32 INFO  ConnectionPoolImp:137 - get new ... 116
+2017-10-15 13:31:32 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:33 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:33 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:33 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:33 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:33 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:33 INFO  ConnectionPoolImp:137 - get new ... 117
+2017-10-15 13:31:33 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:34 INFO  ConnectionPoolImp:137 - get new ... 118
+2017-10-15 13:31:34 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:35 INFO  ConnectionPoolImp:137 - get new ... 119
+2017-10-15 13:31:35 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:36 INFO  ConnectionPoolImp:137 - get new ... 120
+2017-10-15 13:31:36 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:37 INFO  ConnectionPoolImp:137 - get new ... 121
+2017-10-15 13:31:37 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:31:38 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:38 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:38 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:38 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:38 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:43 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:43 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:31:43 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 13:33:12 INFO  ConnectionPoolImp:137 - get new ... 22
+2017-10-15 13:33:12 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:33:13 INFO  ConnectionPoolImp:137 - get new ... 23
+2017-10-15 13:33:13 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:33:14 INFO  ConnectionPoolImp:137 - get new ... 24
+2017-10-15 13:33:14 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:33:15 INFO  ConnectionPoolImp:137 - get new ... 25
+2017-10-15 13:33:15 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:33:16 INFO  ConnectionPoolImp:137 - get new ... 26
+2017-10-15 13:33:16 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:33:17 INFO  ConnectionPoolImp:137 - get new ... 27
+2017-10-15 13:33:17 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:33:18 INFO  ConnectionPoolImp:137 - get new ... 28
+2017-10-15 13:33:18 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:33:19 INFO  ConnectionPoolImp:137 - get new ... 29
+2017-10-15 13:33:19 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:33:20 INFO  ConnectionPoolImp:137 - get new ... 30
+2017-10-15 13:33:20 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:33:21 INFO  ConnectionPoolImp:137 - get new ... 31
+2017-10-15 13:33:21 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:33:22 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 32
+2017-10-15 13:33:22 ERROR Main:52 - 
+2017-10-15 13:33:23 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 33
+2017-10-15 13:33:23 ERROR Main:52 - 
+2017-10-15 13:33:24 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 34
+2017-10-15 13:33:24 ERROR Main:52 - 
+2017-10-15 13:33:25 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 35
+2017-10-15 13:33:25 ERROR Main:52 - 
+2017-10-15 13:33:26 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 36
+2017-10-15 13:33:26 ERROR Main:52 - 
+2017-10-15 13:33:27 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 37
+2017-10-15 13:33:27 ERROR Main:52 - 
+2017-10-15 13:33:28 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 38
+2017-10-15 13:33:28 ERROR Main:52 - 
+2017-10-15 13:33:29 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 39
+2017-10-15 13:33:29 ERROR Main:52 - 
+2017-10-15 13:33:30 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 40
+2017-10-15 13:33:30 ERROR Main:52 - 
+2017-10-15 13:33:31 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 41
+2017-10-15 13:33:31 ERROR Main:52 - 
+2017-10-15 13:33:32 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 42
+2017-10-15 13:33:32 ERROR Main:52 - 
+2017-10-15 13:33:33 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 43
+2017-10-15 13:33:33 ERROR Main:52 - 
+2017-10-15 13:33:34 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 44
+2017-10-15 13:33:34 ERROR Main:52 - 
+2017-10-15 13:33:35 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 45
+2017-10-15 13:33:35 ERROR Main:52 - 
+2017-10-15 13:33:36 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 46
+2017-10-15 13:33:36 ERROR Main:52 - 
+2017-10-15 13:33:37 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 47
+2017-10-15 13:33:37 ERROR Main:52 - 
+2017-10-15 13:33:38 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 48
+2017-10-15 13:33:38 ERROR Main:52 - 
+2017-10-15 13:33:39 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 49
+2017-10-15 13:33:39 ERROR Main:52 - 
+2017-10-15 13:33:40 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 50
+2017-10-15 13:33:40 ERROR Main:52 - 
+2017-10-15 13:33:41 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 51
+2017-10-15 13:33:41 ERROR Main:52 - 
+2017-10-15 13:33:42 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 52
+2017-10-15 13:33:42 ERROR Main:52 - 
+2017-10-15 13:33:43 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 53
+2017-10-15 13:33:43 ERROR Main:52 - 
+2017-10-15 13:33:44 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 54
+2017-10-15 13:33:44 ERROR Main:52 - 
+2017-10-15 13:33:45 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 55
+2017-10-15 13:33:45 ERROR Main:52 - 
+2017-10-15 13:33:46 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 56
+2017-10-15 13:33:46 ERROR Main:52 - 
+2017-10-15 13:33:47 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 57
+2017-10-15 13:33:47 ERROR Main:52 - 
+2017-10-15 13:33:48 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 58
+2017-10-15 13:33:48 ERROR Main:52 - 
+2017-10-15 13:33:49 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 59
+2017-10-15 13:33:49 ERROR Main:52 - 
+2017-10-15 13:33:50 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 60
+2017-10-15 13:33:50 ERROR Main:52 - 
+2017-10-15 13:33:51 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 61
+2017-10-15 13:33:51 ERROR Main:52 - 
+2017-10-15 13:33:52 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 62
+2017-10-15 13:33:52 ERROR Main:52 - 
+2017-10-15 13:33:53 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 63
+2017-10-15 13:33:53 ERROR Main:52 - 
+2017-10-15 13:33:54 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 64
+2017-10-15 13:33:54 ERROR Main:52 - 
+2017-10-15 13:33:55 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 65
+2017-10-15 13:33:55 ERROR Main:52 - 
+2017-10-15 13:33:56 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 66
+2017-10-15 13:33:56 ERROR Main:52 - 
+2017-10-15 13:33:57 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 67
+2017-10-15 13:33:57 ERROR Main:52 - 
+2017-10-15 13:33:58 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 68
+2017-10-15 13:33:58 ERROR Main:52 - 
+2017-10-15 13:33:59 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 69
+2017-10-15 13:33:59 ERROR Main:52 - 
+2017-10-15 13:34:00 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 70
+2017-10-15 13:34:00 ERROR Main:52 - 
+2017-10-15 13:34:01 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 71
+2017-10-15 13:34:01 ERROR Main:52 - 
+2017-10-15 13:34:02 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 72
+2017-10-15 13:34:02 ERROR Main:52 - 
+2017-10-15 13:34:03 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 73
+2017-10-15 13:34:03 ERROR Main:52 - 
+2017-10-15 13:34:04 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 74
+2017-10-15 13:34:04 ERROR Main:52 - 
+2017-10-15 13:34:05 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 75
+2017-10-15 13:34:05 ERROR Main:52 - 
+2017-10-15 13:34:06 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 76
+2017-10-15 13:34:06 ERROR Main:52 - 
+2017-10-15 13:34:07 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 77
+2017-10-15 13:34:07 ERROR Main:52 - 
+2017-10-15 13:34:08 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 78
+2017-10-15 13:34:08 ERROR Main:52 - 
+2017-10-15 13:34:09 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 79
+2017-10-15 13:34:09 ERROR Main:52 - 
+2017-10-15 13:34:10 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 80
+2017-10-15 13:34:10 ERROR Main:52 - 
+2017-10-15 13:34:11 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 81
+2017-10-15 13:34:11 ERROR Main:52 - 
+2017-10-15 13:34:12 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 82
+2017-10-15 13:34:12 ERROR Main:52 - 
+2017-10-15 13:34:13 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 83
+2017-10-15 13:34:13 ERROR Main:52 - 
+2017-10-15 13:34:14 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 84
+2017-10-15 13:34:14 ERROR Main:52 - 
+2017-10-15 13:34:15 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 85
+2017-10-15 13:34:15 ERROR Main:52 - 
+2017-10-15 13:34:16 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 86
+2017-10-15 13:34:16 ERROR Main:52 - 
+2017-10-15 13:34:17 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 87
+2017-10-15 13:34:17 ERROR Main:52 - 
+2017-10-15 13:34:18 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 88
+2017-10-15 13:34:18 ERROR Main:52 - 
+2017-10-15 13:34:19 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 89
+2017-10-15 13:34:19 ERROR Main:52 - 
+2017-10-15 13:34:20 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 90
+2017-10-15 13:34:20 ERROR Main:52 - 
+2017-10-15 13:34:21 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 91
+2017-10-15 13:34:21 ERROR Main:52 - 
+2017-10-15 13:34:22 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 92
+2017-10-15 13:34:22 ERROR Main:52 - 
+2017-10-15 13:34:23 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 93
+2017-10-15 13:34:23 ERROR Main:52 - 
+2017-10-15 13:34:24 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 94
+2017-10-15 13:34:24 ERROR Main:52 - 
+2017-10-15 13:34:25 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 95
+2017-10-15 13:34:25 ERROR Main:52 - 
+2017-10-15 13:34:26 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 96
+2017-10-15 13:34:26 ERROR Main:52 - 
+2017-10-15 13:34:27 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 97
+2017-10-15 13:34:27 ERROR Main:52 - 
+2017-10-15 13:34:28 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 98
+2017-10-15 13:34:28 ERROR Main:52 - 
+2017-10-15 13:34:29 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 99
+2017-10-15 13:34:29 ERROR Main:52 - 
+2017-10-15 13:34:30 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 100
+2017-10-15 13:34:30 ERROR Main:52 - 
+2017-10-15 13:34:31 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 101
+2017-10-15 13:34:31 ERROR Main:52 - 
+2017-10-15 13:34:32 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 102
+2017-10-15 13:34:32 ERROR Main:52 - 
+2017-10-15 13:34:33 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 103
+2017-10-15 13:34:33 ERROR Main:52 - 
+2017-10-15 13:34:34 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 104
+2017-10-15 13:34:34 ERROR Main:52 - 
+2017-10-15 13:34:35 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 105
+2017-10-15 13:34:35 ERROR Main:52 - 
+2017-10-15 13:34:36 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 106
+2017-10-15 13:34:36 ERROR Main:52 - 
+2017-10-15 13:34:37 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 107
+2017-10-15 13:34:37 ERROR Main:52 - 
+2017-10-15 13:34:38 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 108
+2017-10-15 13:34:38 ERROR Main:52 - 
+2017-10-15 13:34:39 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 109
+2017-10-15 13:34:39 ERROR Main:52 - 
+2017-10-15 13:34:40 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 110
+2017-10-15 13:34:40 ERROR Main:52 - 
+2017-10-15 13:34:41 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 111
+2017-10-15 13:34:41 ERROR Main:52 - 
+2017-10-15 13:34:42 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 112
+2017-10-15 13:34:42 ERROR Main:52 - 
+2017-10-15 13:34:43 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 113
+2017-10-15 13:34:43 ERROR Main:52 - 
+2017-10-15 13:34:44 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 114
+2017-10-15 13:34:44 ERROR Main:52 - 
+2017-10-15 13:34:45 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 115
+2017-10-15 13:34:45 ERROR Main:52 - 
+2017-10-15 13:34:46 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 116
+2017-10-15 13:34:46 ERROR Main:52 - 
+2017-10-15 13:34:47 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 117
+2017-10-15 13:34:47 ERROR Main:52 - 
+2017-10-15 13:34:48 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 118
+2017-10-15 13:34:48 ERROR Main:52 - 
+2017-10-15 13:34:49 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 119
+2017-10-15 13:34:49 ERROR Main:52 - 
+2017-10-15 13:34:50 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 120
+2017-10-15 13:34:50 ERROR Main:52 - 
+2017-10-15 13:34:51 ERROR ConnectionPoolImp:149 - refuse connection... for pid = 121
+2017-10-15 13:34:51 ERROR Main:52 - 
+2017-10-15 13:37:15 INFO  ConnectionPoolImp:137 - get new ... 22
+2017-10-15 13:37:15 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:37:16 INFO  ConnectionPoolImp:137 - get new ... 23
+2017-10-15 13:37:16 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:37:17 INFO  ConnectionPoolImp:137 - get new ... 24
+2017-10-15 13:37:17 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:37:18 INFO  ConnectionPoolImp:137 - get new ... 25
+2017-10-15 13:37:18 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:37:19 INFO  ConnectionPoolImp:137 - get new ... 26
+2017-10-15 13:37:19 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:37:20 INFO  ConnectionPoolImp:137 - get new ... 27
+2017-10-15 13:37:20 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:37:21 INFO  ConnectionPoolImp:137 - get new ... 28
+2017-10-15 13:37:21 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:37:22 INFO  ConnectionPoolImp:137 - get new ... 29
+2017-10-15 13:37:22 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:37:23 INFO  ConnectionPoolImp:137 - get new ... 30
+2017-10-15 13:37:23 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:37:24 INFO  ConnectionPoolImp:137 - get new ... 31
+2017-10-15 13:37:24 DEBUG ConnectionPoolImp:90 - connection created successfully...
+2017-10-15 13:37:25 ERROR Main:52 - refuse connection... for pid = 32
+2017-10-15 13:37:26 ERROR Main:52 - refuse connection... for pid = 33
+2017-10-15 13:37:27 ERROR Main:52 - refuse connection... for pid = 34
+2017-10-15 13:37:28 ERROR Main:52 - refuse connection... for pid = 35
+2017-10-15 13:37:29 ERROR Main:52 - refuse connection... for pid = 36
+2017-10-15 13:37:30 ERROR Main:52 - refuse connection... for pid = 37
+2017-10-15 13:37:31 ERROR Main:52 - refuse connection... for pid = 38
+2017-10-15 13:37:32 ERROR Main:52 - refuse connection... for pid = 39
+2017-10-15 13:37:33 ERROR Main:52 - refuse connection... for pid = 40
+2017-10-15 13:37:34 ERROR Main:52 - refuse connection... for pid = 41
+2017-10-15 13:37:35 ERROR Main:52 - refuse connection... for pid = 42
+2017-10-15 13:37:36 ERROR Main:52 - refuse connection... for pid = 43
+2017-10-15 13:37:37 ERROR Main:52 - refuse connection... for pid = 44
+2017-10-15 13:37:38 ERROR Main:52 - refuse connection... for pid = 45
+2017-10-15 13:37:39 ERROR Main:52 - refuse connection... for pid = 46
+2017-10-15 13:37:40 ERROR Main:52 - refuse connection... for pid = 47
+2017-10-15 13:37:41 ERROR Main:52 - refuse connection... for pid = 48
+2017-10-15 13:37:42 ERROR Main:52 - refuse connection... for pid = 49
+2017-10-15 13:37:43 ERROR Main:52 - refuse connection... for pid = 50
+2017-10-15 13:37:44 ERROR Main:52 - refuse connection... for pid = 51
+2017-10-15 13:37:45 ERROR Main:52 - refuse connection... for pid = 52
+2017-10-15 13:37:46 ERROR Main:52 - refuse connection... for pid = 53
+2017-10-15 13:37:47 ERROR Main:52 - refuse connection... for pid = 54
+2017-10-15 13:37:48 ERROR Main:52 - refuse connection... for pid = 55
+2017-10-15 13:37:49 ERROR Main:52 - refuse connection... for pid = 56
+2017-10-15 13:37:50 ERROR Main:52 - refuse connection... for pid = 57
+2017-10-15 13:37:51 ERROR Main:52 - refuse connection... for pid = 58
+2017-10-15 13:37:52 ERROR Main:52 - refuse connection... for pid = 59
+2017-10-15 13:37:53 ERROR Main:52 - refuse connection... for pid = 60
+2017-10-15 13:37:54 ERROR Main:52 - refuse connection... for pid = 61
+2017-10-15 13:37:55 ERROR Main:52 - refuse connection... for pid = 62
+2017-10-15 13:37:56 ERROR Main:52 - refuse connection... for pid = 63
+2017-10-15 13:37:57 ERROR Main:52 - refuse connection... for pid = 64
+2017-10-15 13:37:58 ERROR Main:52 - refuse connection... for pid = 65
+2017-10-15 13:37:59 ERROR Main:52 - refuse connection... for pid = 66
+2017-10-15 13:38:00 ERROR Main:52 - refuse connection... for pid = 67
+2017-10-15 13:38:01 ERROR Main:52 - refuse connection... for pid = 68
+2017-10-15 13:38:02 ERROR Main:52 - refuse connection... for pid = 69
+2017-10-15 13:38:03 ERROR Main:52 - refuse connection... for pid = 70
+2017-10-15 13:38:04 ERROR Main:52 - refuse connection... for pid = 71
+2017-10-15 13:38:05 ERROR Main:52 - refuse connection... for pid = 72
+2017-10-15 13:38:06 ERROR Main:52 - refuse connection... for pid = 73
+2017-10-15 13:38:07 ERROR Main:52 - refuse connection... for pid = 74
+2017-10-15 13:38:08 ERROR Main:52 - refuse connection... for pid = 75
+2017-10-15 13:38:09 ERROR Main:52 - refuse connection... for pid = 76
+2017-10-15 13:38:10 ERROR Main:52 - refuse connection... for pid = 77
+2017-10-15 13:38:11 ERROR Main:52 - refuse connection... for pid = 78
+2017-10-15 13:38:12 ERROR Main:52 - refuse connection... for pid = 79
+2017-10-15 13:38:13 ERROR Main:52 - refuse connection... for pid = 80
+2017-10-15 13:38:14 ERROR Main:52 - refuse connection... for pid = 81
+2017-10-15 13:38:15 ERROR Main:52 - refuse connection... for pid = 82
+2017-10-15 13:38:16 ERROR Main:52 - refuse connection... for pid = 83
+2017-10-15 13:38:17 ERROR Main:52 - refuse connection... for pid = 84
+2017-10-15 13:38:18 ERROR Main:52 - refuse connection... for pid = 85
+2017-10-15 13:38:19 ERROR Main:52 - refuse connection... for pid = 86
+2017-10-15 13:38:20 ERROR Main:52 - refuse connection... for pid = 87
+2017-10-15 13:38:21 ERROR Main:52 - refuse connection... for pid = 88
+2017-10-15 13:38:22 ERROR Main:52 - refuse connection... for pid = 89
+2017-10-15 13:38:23 ERROR Main:52 - refuse connection... for pid = 90
+2017-10-15 13:38:24 ERROR Main:52 - refuse connection... for pid = 91
+2017-10-15 13:38:25 ERROR Main:52 - refuse connection... for pid = 92
+2017-10-15 13:38:26 ERROR Main:52 - refuse connection... for pid = 93
+2017-10-15 13:38:27 ERROR Main:52 - refuse connection... for pid = 94
+2017-10-15 13:38:28 ERROR Main:52 - refuse connection... for pid = 95
+2017-10-15 13:38:29 ERROR Main:52 - refuse connection... for pid = 96
+2017-10-15 13:38:30 ERROR Main:52 - refuse connection... for pid = 97
+2017-10-15 13:38:31 ERROR Main:52 - refuse connection... for pid = 98
+2017-10-15 13:38:32 ERROR Main:52 - refuse connection... for pid = 99
+2017-10-15 13:38:33 ERROR Main:52 - refuse connection... for pid = 100
+2017-10-15 13:38:34 ERROR Main:52 - refuse connection... for pid = 101
+2017-10-15 13:38:35 ERROR Main:52 - refuse connection... for pid = 102
+2017-10-15 13:38:36 ERROR Main:52 - refuse connection... for pid = 103
+2017-10-15 13:38:37 ERROR Main:52 - refuse connection... for pid = 104
+2017-10-15 13:38:38 ERROR Main:52 - refuse connection... for pid = 105
+2017-10-15 13:38:39 ERROR Main:52 - refuse connection... for pid = 106
+2017-10-15 13:38:40 ERROR Main:52 - refuse connection... for pid = 107
+2017-10-15 13:38:41 ERROR Main:52 - refuse connection... for pid = 108
+2017-10-15 13:38:42 ERROR Main:52 - refuse connection... for pid = 109
+2017-10-15 13:38:43 ERROR Main:52 - refuse connection... for pid = 110
+2017-10-15 13:38:44 ERROR Main:52 - refuse connection... for pid = 111
+2017-10-15 13:38:45 ERROR Main:52 - refuse connection... for pid = 112
+2017-10-15 13:38:46 ERROR Main:52 - refuse connection... for pid = 113
+2017-10-15 13:38:47 ERROR Main:52 - refuse connection... for pid = 114
+2017-10-15 13:38:48 ERROR Main:52 - refuse connection... for pid = 115
+2017-10-15 13:38:49 ERROR Main:52 - refuse connection... for pid = 116
+2017-10-15 13:38:50 ERROR Main:52 - refuse connection... for pid = 117
+2017-10-15 13:38:51 ERROR Main:52 - refuse connection... for pid = 118
+2017-10-15 13:38:52 ERROR Main:52 - refuse connection... for pid = 119
+2017-10-15 13:38:53 ERROR Main:52 - refuse connection... for pid = 120
+2017-10-15 13:38:54 ERROR Main:52 - refuse connection... for pid = 121
+2017-10-15 13:44:18 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 13:44:19 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 13:44:20 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 13:44:21 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 13:44:22 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 13:44:23 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 13:44:24 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 13:44:25 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 13:44:26 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 13:44:27 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 13:44:28 ERROR Main:52 - refuse connection ... for pid = 32
+2017-10-15 13:44:29 ERROR Main:52 - refuse connection ... for pid = 33
+2017-10-15 13:44:30 ERROR Main:52 - refuse connection ... for pid = 34
+2017-10-15 13:44:31 ERROR Main:52 - refuse connection ... for pid = 35
+2017-10-15 13:44:32 ERROR Main:52 - refuse connection ... for pid = 36
+2017-10-15 13:44:33 ERROR Main:52 - refuse connection ... for pid = 37
+2017-10-15 13:44:34 ERROR Main:52 - refuse connection ... for pid = 38
+2017-10-15 13:46:54 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 13:46:55 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 13:46:56 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 13:46:57 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 13:47:04 ERROR Main:44 - FATAL: password authentication failed for user "postgres"
+2017-10-15 13:47:04 ERROR Main:44 - FATAL: password authentication failed for user "postgres"
+2017-10-15 13:47:05 ERROR Main:44 - FATAL: password authentication failed for user "postgres"
+2017-10-15 13:47:06 ERROR Main:44 - FATAL: password authentication failed for user "postgres"
+2017-10-15 13:47:07 ERROR Main:44 - FATAL: password authentication failed for user "postgres"
+2017-10-15 13:47:08 ERROR Main:44 - FATAL: password authentication failed for user "postgres"
+2017-10-15 13:47:09 ERROR Main:44 - FATAL: password authentication failed for user "postgres"
+2017-10-15 13:47:10 ERROR Main:44 - FATAL: password authentication failed for user "postgres"
+2017-10-15 13:47:11 ERROR Main:44 - FATAL: password authentication failed for user "postgres"
+2017-10-15 13:47:12 ERROR Main:44 - FATAL: password authentication failed for user "postgres"
+2017-10-15 13:47:13 ERROR Main:44 - FATAL: password authentication failed for user "postgres"
+2017-10-15 13:47:14 ERROR Main:44 - FATAL: password authentication failed for user "postgres"
+2017-10-15 14:12:43 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:12:44 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:12:45 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:12:46 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:12:47 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:12:48 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:12:48 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:12:48 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:12:48 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:12:49 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:12:50 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:12:51 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:12:52 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:12:53 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:12:53 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:12:53 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:12:53 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:12:53 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:12:53 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:12:54 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:12:55 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:12:56 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:12:57 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:12:58 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:12:58 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:12:58 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:12:58 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:12:58 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:12:58 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:12:59 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:00 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:01 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:02 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:03 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:03 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:03 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:03 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:03 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:03 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:04 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:05 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:06 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:07 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:08 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:09 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:10 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:11 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:12 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:13 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:14 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:15 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:16 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:17 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:18 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:19 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:20 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:21 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:22 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:23 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:23 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:23 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:23 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:23 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:23 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:24 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:25 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:26 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:27 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:28 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:28 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:28 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:28 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:28 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:28 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:29 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:30 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:31 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:32 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:33 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:33 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:33 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:33 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:33 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:33 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:34 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:35 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:36 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:37 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:38 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:38 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:38 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:38 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:38 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:38 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:39 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:40 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:41 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:42 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:43 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:43 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:43 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:43 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:43 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:43 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:44 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:45 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:46 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:47 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:48 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:48 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:48 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:48 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:48 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:48 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:49 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:50 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:51 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:52 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:53 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:53 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:53 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:53 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:53 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:53 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:54 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:55 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:56 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:57 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:58 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:13:58 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:58 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:58 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:58 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:58 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:13:59 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:00 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:01 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:02 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:03 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:03 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:03 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:03 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:03 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:03 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:04 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:05 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:06 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:07 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:08 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:08 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:09 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:10 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:11 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:12 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:13 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:13 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:14 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:15 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:16 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:17 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:18 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:18 ERROR ConnectionPoolImp:254 - connection failed!!!
+2017-10-15 14:14:19 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:20 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:21 DEBUG ConnectionPoolImp:89 - connection created successfully...
+2017-10-15 14:14:22 DEBUG ConnectionPoolImp:89 - connection created successfully...
